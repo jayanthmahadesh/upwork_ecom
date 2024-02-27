@@ -1,0 +1,16 @@
+# General
+__pycache__/
+*.py[cod]
+*.sqlite3
+db.sqlite3 
+.DS_Store
+
+# Environments
+.env
+myenv/
+# IDE/Editor files
+.vscode/
+*.idea/
+# Logs and temporary files
+*.log
+local_settings.py
